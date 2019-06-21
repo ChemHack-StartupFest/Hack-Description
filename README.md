@@ -1,6 +1,6 @@
 # CHEMHACKS - STARTUPFEST
 
-##BACKGROUND
+## BACKGROUND
 
 [**Histamine H1 Receptor**](https://en.wikipedia.org/wiki/Histamine_H1_receptor)
 
@@ -20,7 +20,7 @@ H1 antagonists, also called H1 blockers, are a class of medications that block t
 
 
 
-##RESOURCES
+## RESOURCES
 
 Info on SMILES structure notation
 
@@ -38,7 +38,7 @@ H1 antagonist binding site
 
 
 
-##CHALLENGE
+## CHALLENGE
 
 You are a computational chemist at a new pharma company that has just opened in Montreal named HistaminePharma. This pharma company has decided to try to develop new allergy drugs for the Histamine H1 receptor. Your job is to create a new synthetic molecule that is equivalent to or better than current H1 blockers.
 
@@ -48,11 +48,11 @@ If time permits, you can also come up with a complete synthesis pathway for this
 
 
 
-##Recommended Tools &amp; Softwares to Install Before
+## Recommended Tools &amp; Softwares to Install Before
 
 
 
-##Python libraries:
+### Python libraries:
 
 - [batchcalculator](http://lukaszmentel.com/batchcalculator/) - A GUI app based on wxPython for calculating the correct amount of reactants (batch) for a particular composition given by the molar ratio of its components.
 - [cctbx](https://cctbx.github.io/) - The Computational Crystallography Toolbox.
@@ -72,7 +72,7 @@ If time permits, you can also come up with a complete synthesis pathway for this
 
 
 
-##Java libraries:
+### Java libraries:
 
 - [JChem](https://chemaxon.com/) – Java-based computational chemistry tools such as structure handling and database management
 - [CDK](https://cdk.github.io/) – Open-source modular java libraries for chemoinformatics
@@ -81,7 +81,7 @@ If time permits, you can also come up with a complete synthesis pathway for this
 
 
 
-##Software:
+### Software:
 
 - [UCSF chimera ](https://www.cgl.ucsf.edu/chimera/)-  highly extensible program for interactive visualization and analysis of molecular structures and related data, including density maps, supramolecular assemblies, sequence alignments, docking results, trajectories, and conformational ensembles.
 - [PyMol](https://pymol.org/2/) – Similar to UCSF chimera, allows to visualize molecules and a wide array of structural files
@@ -89,7 +89,7 @@ If time permits, you can also come up with a complete synthesis pathway for this
 
 
 
-##Databases
+### Databases
 
 - [ChEMBL](https://www.ebi.ac.uk/chembl/) – A manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into new drugs
 
