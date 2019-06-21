@@ -1,6 +1,6 @@
 # CHEMHACKS - STARTUPFEST
 
-BACKGROUND
+                                                   BACKGROUND
 
 [**Histamine H1 Receptor**](https://en.wikipedia.org/wiki/Histamine_H1_receptor)
 
@@ -17,6 +17,8 @@ These are one of the most important receptors for modulating your internal clock
 
 
 H1 antagonists, also called H1 blockers, are a class of medications that block the action of histamine at the H1 receptor, helping to relieve allergic reactions ([video](https://www.youtube.com/watch?v=uXREQnFGHGA)). Agents where the main therapeutic effect is mediated by negative modulation of histamine receptors are termed antihistamines.
+
+
 
 RESOURCES
 
@@ -36,7 +38,7 @@ H1 antagonist binding site
 
 
 
-CHALLENGE
+                                                      CHALLENGE
 
 You are a computational chemist at a new pharma company that has just opened in Montreal named HistaminePharma. This pharma company has decided to try to develop new allergy drugs for the Histamine H1 receptor. Your job is to create a new synthetic molecule that is equivalent to or better than current H1 blockers.
 
@@ -47,6 +49,8 @@ If time permits, you can also come up with a complete synthesis pathway for this
 
 
 Recommended Tools &amp; Softwares to Install Before
+
+
 
 Python libraries:
 
@@ -66,12 +70,16 @@ Python libraries:
 - [RDKit](http://www.rdkit.org/docs/Install.html) – Allows 2D and 3D operations on molecules such as structure comparison, structure analysis as well as the generation of descriptors for machine learning
 - [stk](https://github.com/lukasturcani/stk) - A library for building, manipulating, analyzing and automatic design of molecules, including a genetic algorithm.
 
+
+
 Java libraries:
 
 - [JChem](https://chemaxon.com/) – Java-based computational chemistry tools such as structure handling and database management
 - [CDK](https://cdk.github.io/) – Open-source modular java libraries for chemoinformatics
 - [Indigo](https://lifescience.opensource.epam.com/indigo/) - Indigo is a universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization.
 - [RDKit](http://www.rdkit.org/docs/Install.html) -  Allows 2D and 3D operations on molecules such as structure comparison, structure analysis as well as the generation of descriptors for machine learning
+
+
 
 Software:
 
